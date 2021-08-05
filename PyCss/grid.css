@@ -1,0 +1,15 @@
+/* To Grid Items */
+.grid-container {
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: auto auto;
+  padding: 10px;
+}
+
+.grid-item {
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  width: 98%;
+  height: 200px;
+  font-size: 30px;
+  text-align: center;
+}

@@ -1,0 +1,7 @@
+/* To Give spacing Gaps between the Divs or Elements */
+
+.#element{
+  display: inline-block;
+  margin-bottom: 100px;
+  margin-right: 100px;
+}

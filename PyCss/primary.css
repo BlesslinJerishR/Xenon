@@ -8,4 +8,6 @@ html, body{
 
 /* Pr0 Background */
 
-background-color : #1D1E21;
+html, body{
+  background-color : #1D1E21;
+}

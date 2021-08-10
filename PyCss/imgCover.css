@@ -1,0 +1,12 @@
+/* To add Image size cover or contain inside img Tag */
+
+body{
+	margin: 0;
+}
+
+img {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover; /* or object-fit: contain; */
+}

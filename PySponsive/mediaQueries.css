@@ -1,0 +1,6 @@
+@media (max-width:480px){
+  #.element{
+    position: relative;
+    left: 20% !important;
+  }
+}

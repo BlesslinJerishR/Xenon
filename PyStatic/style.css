@@ -24,10 +24,11 @@ html, body{
 
 /* Hide Scroll bar through Magic */
 
-html {
+html,body {
     overflow: scroll;
-    overflow-x: hidden;
+    overflow-x: hidden !important;
 }
+
 ::-webkit-scrollbar {
     width: 0;
     background: transparent;

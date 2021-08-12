@@ -1,0 +1,128 @@
+# Your snippets
+#
+# Atom snippets allow you to enter a simple prefix in the editor and hit tab to
+# expand the prefix into a larger code block with templated values.
+#
+# You can create a new snippet in this file by typing "snip" and then hitting
+# tab.
+#
+# An example CoffeeScript snippet to expand log to console.log:
+#
+# '.source.coffee':
+#   'Console log':
+#     'prefix': 'log'
+#     'body': 'console.log $1'
+#
+# Each scope (e.g. '.source.coffee' above) can only be declared once.
+#
+# This file uses CoffeeScript Object Notation (CSON).
+# If you are unfamiliar with CSON, you can read more about it in the
+# Atom Flight Manual:
+# http://flight-manual.atom.io/using-atom/sections/basic-customization/#_cson
+
+# Relative R
+'.source.css':
+  'Relative R':
+    'prefix': 'r'
+    'body': ' position: relative;\n'
+
+# Relative RLR
+  'Relative RL':
+    'prefix': 'rlt'
+    'body': ' position: relative;\n
+            top: %;\n
+            left: %;'
+
+# Relative R20
+  'Relative R20%':
+    'prefix': 'r20'
+    'body': ' position: relative;\n
+            top: 20%;'
+
+# Relative R50
+  'Relative R50%':
+    'prefix': 'r50'
+    'body': ' position: relative;\n
+            top: 50%;'
+
+# Relative L20
+  'Relative L20%':
+    'prefix': 'l20'
+    'body': ' position: relative;\n
+            left: 20%;'
+
+# Relative L50
+  'Relative L50%':
+    'prefix': 'l50'
+    'body': ' position: relative;\n
+           left: 50%;'
+
+# Background-Color GreyBlack
+  'Background GreyBlack':
+    'prefix': 'bgb'
+    'body': 'background-color: #1D1E21;'
+
+
+# Background Text Color White
+  'Background Text White':
+    'prefix': 'cw'
+    'body': 'color: #FFFFFF;'
+
+# Import Roboto
+  'Import Roboto':
+    'prefix': 'iro'
+    'body': '@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");\n
+               \n
+               html, body{\n
+               font-family: "Roboto", sans-serif !important;\n
+              }'
+
+# Top Right Bottom left
+  'TRBL':
+    'prefix': 'trbl'
+    'body': 'top: 0;\n
+            right: 0;\n
+            bottom: 0;\n
+            left: 0;'
+
+# HTML , body
+  'HTML + Body':
+    'prefix': 'hb'
+    'body': 'html, body{\n
+              \n
+            }'
+
+# padding
+  'padding':
+    'prefix': 'pa'
+    'body': 'padding:  px;'
+
+# position
+  'position':
+    'prefix': 'po'
+    'body': 'position:  relative;\n'
+
+# font size
+  'font-size':
+    'prefix': 'fs'
+    'body': 'font-size:  10px;\n'
+
+# font family
+  'font-family':
+    'prefix': 'ff'
+    'body': 'font-family:  "";'
+
+# width
+  'width':
+    'prefix': 'w'
+    'body': 'width: px;'
+
+# height
+  'height':
+    'prefix': 'h'
+    'body': 'height: px;'
+
+# background image
+  'background-image':
+    'prefix': 'bi'
+    'body': 'background-image: url(".png");'

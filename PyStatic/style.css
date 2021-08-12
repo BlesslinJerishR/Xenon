@@ -2,6 +2,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+/* Color Refrences */
+
+/*
+
+red_grey: #1D1E21;
+spring-green :00FF7F;
+
+*/
+
 html, body{
   font-family: 'Roboto', sans-serif !important;
 }

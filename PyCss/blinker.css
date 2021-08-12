@@ -1,0 +1,19 @@
+/* To make a element Blink */
+
+.#element{
+  animation: animate 1.5s linear infinite;
+}
+
+/* Key Frames */
+
+@keyframes animate{
+   0%{
+     opacity: 0;
+   }
+   50%{
+     opacity: 0.7;
+   }
+   100%{
+     opacity: 0;
+   }
+ }

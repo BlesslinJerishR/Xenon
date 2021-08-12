@@ -19,6 +19,7 @@ html, body{
 
 html, body{
   background-color : #1D1E21 !important;
+  scroll-behavior: smooth;
 }
 
 /* Hide Scroll bar through Magic */

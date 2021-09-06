@@ -12,4 +12,13 @@ Framework collections to make my life less difficult .
 > PYHtml
 >>
 >> BoilerPlate
+>> 
+>> Footers
+>> 
+>> Hearts
+>> 
+>> Preloader
+>> 
+>> Title Icons
+>> 
 #### Developer : Mastermindx33

@@ -1,0 +1,15 @@
+/* Terminal Blinker _ */
+
+.blink_me{
+animation:blinking 1.3s infinite;
+font-size: 20px;
+}
+
+/* colour++ 2 Blink */
+@keyframes blinking{
+0%{   color: #FF0000;   }
+25%{   color: #FF0000; }
+50%{   color: transparent; }
+75%{   color:transparent; }
+100%{  color: #FF0000;   }
+}

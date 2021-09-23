@@ -9,7 +9,7 @@
 
 /* Laptop Screen Media Queries */
 
-only screen and (min-width: 992px){
+@only screen and (min-width: 992px){
   #.element{
     /* Styles here   */
     

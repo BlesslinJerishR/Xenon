@@ -1,6 +1,17 @@
+/* Mobile Screen Media Queries */
+
 @media (max-width:480px){
   #.element{
     position: relative;
     left: 20% !important;
+  }
+}
+
+/* Laptop Screen Media Queries */
+
+only screen and (min-width: 992px){
+  #.element{
+    /* Styles here   */
+    
   }
 }

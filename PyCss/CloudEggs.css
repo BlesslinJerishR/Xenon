@@ -1,0 +1,21 @@
+/* Cloud Like Linear Animation for Egg Gradients */
+
+.cloudegg {
+  /* Input 4xShades down   */
+	background: linear-gradient(-45deg, #00FF00, #5aff15, #23d5ab, #00FF7F); 
+  background-size: 300% 300%;
+	animation: gradient 5s ease infinite;
+  border-radius: 5px !important;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}

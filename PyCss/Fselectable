@@ -1,0 +1,13 @@
+/* Fselect */
+
+/* NO SELECT + HIGHLIGHT COLOR */
+
+* {
+  user-select: auto !important;
+}
+*::selection {
+  background: none !important;
+}
+*::-moz-selection {
+  background: none !important;
+}

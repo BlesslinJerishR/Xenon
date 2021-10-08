@@ -2,9 +2,9 @@
 
 .cloudegg {
   /* Input 4xShades down   */
-	background: linear-gradient(-45deg, #00FF00, #5aff15, #23d5ab, #00FF7F); 
+  background: linear-gradient(-45deg, #00FF00, #5aff15, #23d5ab, #00FF7F); 
   background-size: 300% 300%;
-	animation: gradient 5s ease infinite;
+  animation: gradient 5s ease infinite;
   border-radius: 5px !important;
 }
 

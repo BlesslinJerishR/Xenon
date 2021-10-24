@@ -1,5 +1,5 @@
 # Zyrames
-Framework collections to make my life less difficult .
+- Framework Skeletons that make my Ass less painful .
 
 > PyCss
 >>

@@ -3,22 +3,22 @@
 
 > XyCss
 >>
->> JarvisSensor
+- JarvisSensor
 >>
->> MagicScroll
+- MagicScroll
 >>
->> NeonBar
+- NeonBar
 >
 > Xtml
 >>
->> BoilerPlate
+- BoilerPlate
 >> 
->> Footers
+- Footers
 >> 
->> Hearts
+- Hearts
 >> 
->> Preloader
+- preloader
 >> 
->> Title Icons
+- Title Icons
 >> 
 #### **[ Developer : Blesslin Jerish R ]**

@@ -1,5 +1,5 @@
 ## Xenon
-- Framework Skeletons that make my Ass less painful .
+- Framework Skeletons which i developed to make my Ass less painful .
 
 > XyCss
 >>

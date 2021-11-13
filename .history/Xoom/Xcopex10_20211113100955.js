@@ -1,1 +1,0 @@
-// Scope 150 % Zoom for Windows Browsers

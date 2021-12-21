@@ -1,0 +1,7 @@
+.noselect {
+  -webkit-touch-callout: none; /* iOS*/
+    -webkit-user-select: none; /* Safari */
+       -moz-user-select: none; /* Firefox Old */
+        -ms-user-select: none; /* Internet Explorer or Edge */
+            user-select: none; /* Chrome, Edge, Opera and Firefox */
+}
